@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://code4libtoronto.github.io/post/welcome/</loc>
+    <lastmod>2017-05-11T15:42:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://code4libtoronto.github.io/</loc>
+    <lastmod>2017-05-11T15:42:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://code4libtoronto.github.io/post/</loc>
+    <lastmod>2017-05-11T15:42:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://code4libtoronto.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
